@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tugas1</string>
+    <string name="topimage">TopImage</string>
+    <string name="input_your_name">Input your name</string>
+    <string name="input_your_student_number">Input your student number</string>
+    <string name="input_your_major">Input your major</string>
+    <string name="submit">Submit</string>
+    <string name="bottomvector">bottomVector</string>
+</resources>
